@@ -1,2 +1,2 @@
-# noticias
-Repositório do desafio 10 do curso de desenvolvimento web do curso em vídeo.
+# Notícias - Android
+Nesse repositório, você encontrará os arquivos desenvolvidos durante o capítulo 17 (módulo 2) do curso de desenvolvimento web do Curso em Vídeo ([aqui](https://youtube.com/playlist?list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s)). Caso queira ver o projeto pronto, acesse [aqui](https://melchiorsjean.github.io/noticias/) a hospedagem pelo _GitHub_, ou ainda, [aqui](https://melchiorsjean.com/noticias/) para hospedagem profissional contratada.
